@@ -1,6 +1,6 @@
 # Manuel Gasparini
 
-I'm a web developer working with Astro, TypeScript and accessibility, contributing to open source, and building RAYS, a Swift macOS app for DJ lighting.
+I'm a developer who builds with Astro and TypeScript, cares about accessibility, contributes to open source, and makes macOS software.
 
 ## Projects
 
