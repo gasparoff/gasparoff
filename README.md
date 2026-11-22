@@ -1,6 +1,8 @@
 # Manuel Gasparini
 
-I'm a developer who builds with Astro and TypeScript, cares about accessibility, contributes to open source, and makes macOS software.
+I'm a developer at [Cosmopoiesi](https://cosmopoiesi.com), working with Astro and TypeScript, contributing to open source, and building accessible web and macOS software.
+
+
 
 ## Projects
 
