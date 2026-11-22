@@ -1,6 +1,6 @@
 # Manuel Gasparini
 
-Web developer at [Cosmopoiesi](https://cosmopoiesi.com). I work with Astro, TypeScript and web accessibility.
+I'm a web developer working with Astro, TypeScript and accessibility, contributing to open source, and building RAYS, a Swift macOS app for DJ lighting.
 
 ## Projects
 
