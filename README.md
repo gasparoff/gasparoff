@@ -2,6 +2,10 @@
 
 Web developer at [Cosmopoiesi](https://cosmopoiesi.com). I work with Astro, TypeScript and web accessibility.
 
+## Projects
+
+- **[RAYS](https://github.com/gasparoff/rays)** — Native macOS app in Swift for beat-synced DMX lighting control for DJs. Outputs over Art-Net and syncs with Ableton Link and Pro DJ Link.
+
 ## Open source contributions
 
 Merged pull requests in other projects:
