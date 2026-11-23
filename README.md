@@ -1,10 +1,12 @@
 # Manuel Gasparini
 
-I'm a developer at [Cosmopoiesi](https://cosmopoiesi.com), working with Astro and TypeScript, contributing to open source, and building accessible web and macOS software.
+I build websites and apps at [Cosmopoiesi](https://cosmopoiesi.com), working with Astro and TypeScript and focusing on accessibility. I contribute to open source and build native software for macOS.
+
+Have a project or an open source collaboration in mind? [Get in touch](mailto:info@cosmopoiesi.com) · [See our work](https://cosmopoiesi.com)
 
 ## Projects
 
-- **[RAYS](https://github.com/gasparoff/rays)** — Native macOS app in Swift for beat-synced DMX lighting control for DJs. Outputs over Art-Net and syncs with Ableton Link and Pro DJ Link.
+- **[RAYS](https://github.com/gasparoff/rays)** — Open-source, beat-synced DMX lighting for DJs. Native on macOS.
 
 ## Open source contributions
 
