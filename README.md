@@ -12,6 +12,7 @@ Have a project or an open source collaboration in mind? [Get in touch](mailto:in
 
 Merged pull requests in other projects:
 
+- [sanity-astro #546](https://github.com/sanity-io/sanity-astro/pull/546) — pre-bundled embedded Sanity Studio dependencies during `astro dev` startup, preventing Vite outdated dependency 504 errors on the first Studio visit.
 - [incluud/accessible-astro-components #181](https://github.com/incluud/accessible-astro-components/pull/181) — preserves native form validation until client-side validation runs.
 - [London.js website](https://github.com/londonjs/website) — improved mobile menu accessibility ([#79](https://github.com/londonjs/website/pull/79), [#83](https://github.com/londonjs/website/pull/83)); added tests for slug generation ([#81](https://github.com/londonjs/website/pull/81)) and Markdown rendering ([#84](https://github.com/londonjs/website/pull/84)).
 - [Dyvix UI #575](https://github.com/younisdev/dyvix-ui/pull/575) — documented Command Menu CSS overrides.
