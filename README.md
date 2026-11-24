@@ -8,14 +8,8 @@ Have a project or an open source collaboration in mind? [Get in touch](mailto:in
 
 - **[RAYS](https://github.com/gasparoff/rays)** — Open-source, beat-synced DMX lighting for DJs. Native on macOS.
 
-## Open source contributions
+## Open source
 
-Merged pull requests in other projects:
+Contributing to the Astro ecosystem, accessible UI and web platform polyfills. Merged work in [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster), [sanity-astro](https://github.com/sanity-io/sanity-astro), [Accessible Astro](https://github.com/incluud/accessible-astro-components) and [invokers-polyfill](https://github.com/keithamus/invokers-polyfill).
 
-- [sanity-astro #546](https://github.com/sanity-io/sanity-astro/pull/546) — pre-bundled embedded Sanity Studio dependencies during `astro dev` startup, preventing Vite outdated dependency 504 errors on the first Studio visit.
-- [Accessible Astro Components](https://github.com/incluud/accessible-astro-components) — preserved native form validation ([#181](https://github.com/incluud/accessible-astro-components/pull/181)) and merged user styles with component custom properties ([#185](https://github.com/incluud/accessible-astro-components/pull/185)).
-- [Accessible Astro Starter](https://github.com/incluud/accessible-astro-starter) — fixed form fields and current tag semantics ([#209](https://github.com/incluud/accessible-astro-starter/pull/209)); improved the CLI directory prompt ([#210](https://github.com/incluud/accessible-astro-starter/pull/210)).
-- [London.js website](https://github.com/londonjs/website) — improved mobile menu accessibility ([#79](https://github.com/londonjs/website/pull/79), [#83](https://github.com/londonjs/website/pull/83)); added tests for slug generation ([#81](https://github.com/londonjs/website/pull/81)) and Markdown rendering ([#84](https://github.com/londonjs/website/pull/84)).
-- [Dyvix UI #575](https://github.com/younisdev/dyvix-ui/pull/575) — documented Command Menu CSS overrides.
-- [invokers-polyfill #90](https://github.com/keithamus/invokers-polyfill/pull/90) — fixed `attachInternals` wrapping and the shadow-root `oncommand` observer.
-- [Leaflet.markercluster #1128](https://github.com/Leaflet/Leaflet.markercluster/pull/1128) — fixed coordinates when moving a spiderfied marker with `setLatLng`.
+[All merged pull requests →](https://github.com/search?q=author%3Agasparoff+is%3Apr+is%3Amerged+-user%3Agasparoff&type=pullrequests)
