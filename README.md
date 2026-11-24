@@ -1,6 +1,6 @@
 # Manuel Gasparini
 
-**Accessible web experiences. Thoughtful tools.**
+**I build accessible websites and small tools that solve real problems.**
 
 Web developer in Verona. I build with Astro and TypeScript at [Cosmopoiesi](https://cosmopoiesi.com), and write native software for macOS.
 
