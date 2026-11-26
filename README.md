@@ -7,7 +7,7 @@ Web developer in Verona. I build with Astro and TypeScript at [Cosmopoiesi](http
 ### Now
 
 [**RAYS**](https://github.com/gasparoff/rays) · Open-source, beat-synced DMX lighting for macOS.  
-**Permalock** · A work in progress to help keep static site URLs working.
+[**Permalock**](https://github.com/gasparoff/permalock) · A work in progress to help keep static site URLs working.
 
 ### Merged upstream
 
